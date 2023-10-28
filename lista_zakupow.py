@@ -15,4 +15,6 @@ print("Szef byl zadowolony")
 
 print("Przyjecie sie udało")
 
+print("Do widzenie i zapraszamy ponownie")
+
 
