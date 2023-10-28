@@ -10,3 +10,9 @@ for place, products in shopping_list.items():
     amount_products += len(products)
     print(f"Ide do {place.capitalize()} i kupuję tam następujące rzeczy: {products_capitalize}")
 print(f"W sumie kupuję {str(amount_products)} produktów")
+
+print("Szef byl zadowolony")
+
+print("Przyjecie sie udało")
+
+
